@@ -1,0 +1,17 @@
+{
+  "name": "hotel",
+  "version": "1.0.0",
+  "description": "Hotel Booking",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Mathur",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+Create d database named hotel containing 4 collections Hotels,Rooms,Users,Bookings.
+
+Insert documents in the collections as per the required data in respective collections.
+
+Please follow the Schemas inside /models/ folder for inserting data.
+
+Booking.js:
+
+Booking collection contains userId which is user object id which is ASSUMED to be assigned when user logs in and the same id would be used as session id. 
+
+Booking collection contains roomno which is room object id which can be used to get details of that particular room and is assigned to the booking collection.
